@@ -49,4 +49,4 @@ Github上可以看到，安裝WebGoat有四種方法:
 
 在找錯誤的過程中，曾經有一度以為是環境變數的問題，隨然現在還不確定是不是因為環境變數，但從錯誤中也學到另一個看問題的角度，可能未來有相關問題的時候就會把環境變數列為其中一個需要注意的要素。
 
-![JRE_Home](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (513).png)![Path](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (514).png)![Java_Home](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (512).png)
+![JRE_Home](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(513).png)![Path](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (514).png)![Java_Home](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (512).png)
