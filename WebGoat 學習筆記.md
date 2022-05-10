@@ -35,7 +35,7 @@ Github上可以看到，安裝WebGoat有四種方法:
 雖然看似很蠢，但我覺得沒有相關使用經驗，同時又沒有人教的時候，真的會犯一些看似很低級的錯誤，因此這邊提供一些淺見給一些毫無經驗的人
 ## 要開 Windows Powershell 去做安裝
 找到你下載的路徑右鍵點選 Open in Terminal ，**一般來說會在Downloads**
-![PowerShell](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (511).png)
+![PowerShell](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(511).png)
 
 ## 廣泛閱讀找資料很重要
 盡最大的努力從GitHub、Medium等等網站去找學習資源，問人是很好的方法，從小到大我們都被鼓勵有問題就應該去問，然而並不是隨時都有人可以問，因此在現在這個網路資源豐富的時代，我們其實應該盡可能去找資料，訓練自己獨立解決問題，從中可以提升你兩個能力:
@@ -48,5 +48,5 @@ Github上可以看到，安裝WebGoat有四種方法:
 ## 2. 找錯方向
 
 在找錯誤的過程中，曾經有一度以為是環境變數的問題，隨然現在還不確定是不是因為環境變數，但從錯誤中也學到另一個看問題的角度，可能未來有相關問題的時候就會把環境變數列為其中一個需要注意的要素。
-
-![JRE_Home](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(513).png)![Path](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (514).png)![Java_Home](C:\Users\User\OneDrive\圖片\螢幕擷取畫面\Screenshot (512).png)
+	
+![JRE_Home](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(513).png)![Path](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(514).png)![Java_Home](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(512).png)
