@@ -4,11 +4,11 @@
 
 ## 請使用者在欄位輸入名字
 畫面會將您輸入的東西**顛倒顯示**
-![Screenshot (517)](Screenshot (517).png)
+![Screenshot (517)](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(517).png)
 
 根據程式碼我們可以發現這個表格是使用**POST**的方式傳出去
-![Screenshot (516)](Screenshot (516).png)
+![Screenshot (516)](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(516).png)
 
 接著我們會發現**Request**裡竟然包含一個叫做**magic_num的參數**，這個表單裡有個隱藏的表單欄位，並存了**magic_num**的值在其中。
 
-![Screenshot (518)](Screenshot (518).png)
+![Screenshot (518)](https://github.com/YuCheng1122/WebGoat/blob/master/Screenshot%20(518).png)
